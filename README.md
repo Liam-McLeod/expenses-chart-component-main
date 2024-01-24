@@ -17,8 +17,8 @@ This is a solution to the [Expenses chart component challenge on Frontend Mentor
 
 ### Links
 
--  [Solution URL](https://www.frontendmentor.io/solutions/age-calculator-app-otqwzMQoN-)
--  [Live Site URL](https://liam-mcleod.github.io/age-calculator-app-main/)
+-  [Solution URL](https://www.frontendmentor.io/solutions/expenses-chart-component-chartjs-A_tuMgrSpl)
+-  [Live Site URL](https://liam-mcleod.github.io/expenses-chart-component-main/)
 
 ## Author
 - Frontend Mentor - [@Liam-McLeod](https://www.frontendmentor.io/profile/Liam-McLeod)
